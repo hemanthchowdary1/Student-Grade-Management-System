@@ -1,0 +1,3 @@
+C:/Users/heman/CLionProjects/student grade management system/cmake-build-debug/CMakeFiles/student_grade_management_system.dir
+C:/Users/heman/CLionProjects/student grade management system/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/heman/CLionProjects/student grade management system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
